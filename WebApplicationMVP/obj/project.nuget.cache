@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "uczN5kK847JveYJmLD8inWgfRPPK71ZvI4KnL1tJ/nB0FVsawS5oDjXvMYUytENEQTh9wPlvdnkze+k5kPclZw==",
+  "dgSpecHash": "BobmwZJ16keTRC4QakCXGdSZFx1aLW7cYw2kik32LCn03Qs5M86k6q8p7ITT34oxvH0zHUlOGxT/ay56r+NJmQ==",
   "success": true,
   "projectFilePath": "/Users/vbudilov/Desktop/C#Projects/ASP.NET_Test_Aplication/WebApplicationMVP/WebApplicationMVP.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/vbudilov/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/vbudilov/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/vbudilov/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/vbudilov/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/vbudilov/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/vbudilov/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
